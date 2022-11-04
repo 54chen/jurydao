@@ -75,7 +75,7 @@ export default function Footer() {
               </a>
             </NextLink>
           </ShareBar>
-          <Copyright>&copy; Copyright 2021 JuryDAO</Copyright>
+          <Copyright>&copy; Copyright 2022 JuryDAO</Copyright>
         </BottomBar>
       </Container>
     </FooterWrapper>
