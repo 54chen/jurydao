@@ -20,7 +20,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <title>{EnvVars.SITE_NAME}</title>
         <meta
           name="description"
-          content="Tempor nostrud velit fugiat nostrud duis incididunt Lorem deserunt est tempor aute dolor ad elit."
+          content="JuryDAO联手安全公司致力于帮助用户追回被盗资产（由DAOSquare孵化）."
         />
       </Head>
       <HomepageWrapper>
