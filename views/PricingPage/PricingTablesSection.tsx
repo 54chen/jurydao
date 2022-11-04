@@ -17,7 +17,7 @@ export default function PricingTablesSection() {
           $0<span>/month</span>
         </PricingCard>
         <PricingCard
-          title="Starter"
+          title="JuryDAO"
           description="Best for individual desginers"
           benefits={['1 seat', '3 active project', 'Ulimited viewers', '100 blocks', 'CSV Downloader', 'Password protection']}
           isOutlined

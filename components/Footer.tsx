@@ -57,25 +57,25 @@ export default function Footer() {
         </ListContainer>
         <BottomBar>
           <ShareBar>
-            <NextLink href="https://www.twitter.com/my-saas-startup" passHref>
+            <NextLink href="https://www.twitter.com/JuryDAOstartup" passHref>
               <a>
                 <TwitterIcon size={50} round={true} />
               </a>
             </NextLink>
 
-            <NextLink href="https://www.facebook.com/my-saas-startup" passHref>
+            <NextLink href="https://www.facebook.com/JuryDAOstartup" passHref>
               <a>
                 <FacebookIcon size={50} round={true} />
               </a>
             </NextLink>
 
-            <NextLink href="https://www.linkedin.com/my-saas-startup" passHref>
+            <NextLink href="https://www.linkedin.com/JuryDAOstartup" passHref>
               <a>
                 <LinkedinIcon size={50} round={true} />
               </a>
             </NextLink>
           </ShareBar>
-          <Copyright>&copy; Copyright 2021 My Saas Startup</Copyright>
+          <Copyright>&copy; Copyright 2021 JuryDAO</Copyright>
         </BottomBar>
       </Container>
     </FooterWrapper>

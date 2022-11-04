@@ -14,19 +14,18 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with our SaaS</Heading>
+        <CustomOverTitle>JuryDAO联手安全公司致力于帮助用户追回被盗资产（由DAOSquare孵化）</CustomOverTitle>
+        <Heading>帮你找回失去的链上资产</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        一个联手安全公司致力于帮助用户追回被盗资产的DAO。更多描述更多描述更多描述更多描述更多描述更多描述更多描述更多描述更多描述更多描述更多描述更多描述更多描述更多描述
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
-            Subscribe to the newsletter <span>&rarr;</span>
+            我要求助 <span>&rarr;</span>
           </Button>
           <NextLink href="#whitepaper" passHref>
             <Button transparent>
-              Features <span>&rarr;</span>
+              理念 <span>&rarr;</span>
             </Button>
           </NextLink>
         </CustomButtonGroup>
